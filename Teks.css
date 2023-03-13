@@ -1,0 +1,20 @@
+*, html, body{
+}
+
+h1 {
+    color: #ff0000
+}
+
+p{
+    color: #00FF00
+}
+
+h2{
+    border: 5px solid greenyellow;
+    color: blue;
+}
+
+p1{
+    color: #00FF00
+
+}
